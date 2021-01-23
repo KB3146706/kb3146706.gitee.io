@@ -2,13 +2,219 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kb3146706.gitee.io</id>
     <title>KB3146706&apos;s Blog</title>
-    <updated>2020-12-19T09:48:55.978Z</updated>
+    <updated>2021-01-23T14:34:36.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kb3146706.gitee.io"/>
     <link rel="self" href="https://kb3146706.gitee.io/atom.xml"/>
     <logo>https://kb3146706.gitee.io/images/avatar.png</logo>
     <icon>https://kb3146706.gitee.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, KB3146706&apos;s Blog</rights>
+    <rights>All rights reserved 2021, KB3146706&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【Try Anytime】《我心中的思政课》微电影]]></title>
+        <id>https://kb3146706.gitee.io/post/try-anytime-lesslesswo-xin-zhong-de-si-zheng-ke-greatergreater-wei-dian-ying/</id>
+        <link href="https://kb3146706.gitee.io/post/try-anytime-lesslesswo-xin-zhong-de-si-zheng-ke-greatergreater-wei-dian-ying/">
+        </link>
+        <updated>2021-01-23T14:27:04.000Z</updated>
+        <content type="html"><![CDATA[<p>大工程</p>
+<h1 id="前期准备">前期准备</h1>
+<ul>
+<li>校徽</li>
+</ul>
+<p><s>网上能找到的最清晰的也是仅640*640的高糊图......</s></p>
+<p><s>最后是找了我们院的老师才获得这份716*716的😂</s></p>
+<h1 id="片头">片头</h1>
+<h2 id="第一部分处理-bgm">第一部分——处理 BGM</h2>
+<ul>
+<li>用 Adobe Audition 打开选好的音乐</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://kb3146706.gitee.io/post-images/1611411055250.png" alt="" loading="lazy"></figure>
+<ul>
+<li>删除不需要的部分</li>
+</ul>
+<figure data-type="image" tabindex="2"><img src="https://kb3146706.gitee.io/post-images/1611411064711.png" alt="" loading="lazy"></figure>
+<ul>
+<li>通过复制粘贴的方式将音乐响起时间延长至1秒（多一点点少一点点没关系）</li>
+</ul>
+<figure data-type="image" tabindex="3"><img src="https://kb3146706.gitee.io/post-images/1611411075345.png" alt="" loading="lazy"></figure>
+<ul>
+<li>将“后半部分”的音乐做线性淡出处理（平滑淡出的效果不是很好）</li>
+</ul>
+<figure data-type="image" tabindex="4"><img src="https://kb3146706.gitee.io/post-images/1611411083014.png" alt="" loading="lazy"></figure>
+<ul>
+<li>保存，完成！</li>
+</ul>
+<figure data-type="image" tabindex="5"><img src="https://kb3146706.gitee.io/post-images/1611411092466.png" alt="" loading="lazy"></figure>
+<h2 id="第二部分制作背景">第二部分——制作背景</h2>
+<ul>
+<li>
+<p>新建一个 PowerPoint 文档</p>
+</li>
+<li>
+<p>将幻灯片大小设置为1920像素*1080像素</p>
+</li>
+<li>
+<p>背景格式设置为纯色填充，R175 G171 B191（ #afabbf ）</p>
+</li>
+<li>
+<p>插入一个大小为四分之一幻灯片大小的椭圆，填充颜色设置为R255 G255 B255（ #ffffff ），轮廓设置为无轮廓，形状格式如图</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="6"><img src="https://kb3146706.gitee.io/post-images/1611411123902.png" alt="" loading="lazy"></figure>
+<p>那么背景就完成了！（此时该页幻灯片应为第1页）</p>
+<figure data-type="image" tabindex="7"><img src="https://kb3146706.gitee.io/post-images/1611411139245.png" alt="" loading="lazy"></figure>
+<h2 id="第三部分分解校徽">第三部分——分解校徽</h2>
+<ul>
+<li>用 Adobe Photoshop 打开准备好的校徽</li>
+</ul>
+<figure data-type="image" tabindex="8"><img src="https://kb3146706.gitee.io/post-images/1611411158146.png" alt="" loading="lazy"></figure>
+<ul>
+<li>使用对象选择工具对每个 文字/字母 进行选择，反选，删除，得到文本环</li>
+</ul>
+<figure data-type="image" tabindex="9"><img src="https://kb3146706.gitee.io/post-images/1611411169019.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://kb3146706.gitee.io/post-images/1611411176917.png" alt="" loading="lazy"></figure>
+<p><s>差不多就行，不用太细致</s></p>
+<ul>
+<li>用同样的方法把中间的“花”抠出来</li>
+</ul>
+<figure data-type="image" tabindex="11"><img src="https://kb3146706.gitee.io/post-images/1611411198017.png" alt="" loading="lazy"></figure>
+<p>完成！</p>
+<h2 id="第四部分非线性动画">第四部分——非线性动画</h2>
+<ul>
+<li>将校徽插入第一部分创建的 PowerPoint 文件中，调整好大小，放映，截图（此时该页幻灯片应为第2页）</li>
+</ul>
+<figure data-type="image" tabindex="12"><img src="https://kb3146706.gitee.io/post-images/1611411215452.png" alt="" loading="lazy"></figure>
+<ul>
+<li>
+<p>打开 Adobe After Effects ，新建一个项目与合成。合成设置为宽度：1920px，高度：1080px，帧速率：60 帧/秒，其余保持默认即可。</p>
+</li>
+<li>
+<p>将第一部分制作好的背景与刚刚制作好的含校徽的背景拖入时间轴（习惯性的打开辅助网线）</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="13"><img src="https://kb3146706.gitee.io/post-images/1611411225240.png" alt="" loading="lazy"></figure>
+<ul>
+<li>利用椭圆工具绘制三个与校徽中的三个圆环等大同色的圆环</li>
+</ul>
+<figure data-type="image" tabindex="14"><img src="https://kb3146706.gitee.io/post-images/1611411233278.png" alt="" loading="lazy"></figure>
+<p><em>技巧：可先将圆环颜色设置为红色，这样对准时更方便，对准后再改回来</em></p>
+<ul>
+<li>这里以最外的圆环为例，依次在时间轴展开内容-椭圆1-修建路径，将当前时间指示器拖至最左（0秒），点击最左侧的菱形按钮将该帧设置为关键帧</li>
+</ul>
+<figure data-type="image" tabindex="15"><img src="https://kb3146706.gitee.io/post-images/1611411250405.png" alt="" loading="lazy"></figure>
+<ul>
+<li>将当前时间指示器拖至1.5秒处，也将其设置为关键帧，同时将“开始”栏的百分比设置为100.0%</li>
+</ul>
+<figure data-type="image" tabindex="16"><img src="https://kb3146706.gitee.io/post-images/1611411256478.png" alt="" loading="lazy"></figure>
+<ul>
+<li>单击开始，单击图标编辑器按钮，拖动黄色控制轴的长短与方向可控制其运动方式，这里设置为典型非线性动画的“慢快慢”式（白线斜率即为所对应的对象的运动速率）</li>
+</ul>
+<figure data-type="image" tabindex="17"><img src="https://kb3146706.gitee.io/post-images/1611411262562.png" alt="" loading="lazy"></figure>
+<ul>
+<li>按以上步骤将其余两个圆环也做相同操作，唯一需要改变的是中层圆环的动作路径，点击“椭圆路径1”旁的按钮即可切换</li>
+</ul>
+<figure data-type="image" tabindex="18"><img src="https://kb3146706.gitee.io/post-images/1611411273590.png" alt="" loading="lazy"></figure>
+<ul>
+<li>依次点击文件-导出-添加到渲染队列，在打开的窗口中定义好导出路径与文件名即可点击渲染按钮开始导出</li>
+</ul>
+<p><img src="https://kb3146706.gitee.io/post-images/1611411286398.png" alt="" loading="lazy"><br>
+<img src="https://kb3146706.gitee.io/post-images/1611411333325.png" alt="" loading="lazy"></p>
+<p>导出完毕即完成！</p>
+<p><em>像这样对清晰度没有过高要求的视频，可使用 <a href="https://gitee.com/haujet/QuickCut/releases">Quick Cut</a> 等工具对其进行压缩</em></p>
+<h2 id="第五部分合成">第五部分——合成</h2>
+<ul>
+<li>打开第一部分创建的 PowerPoint 文件，在第1页前新建一页纯黑色幻灯片，插入BGM并将其音频选项设置为跨幻灯片播放（此时该页幻灯片应为第1页）</li>
+</ul>
+<figure data-type="image" tabindex="19"><img src="https://kb3146706.gitee.io/post-images/1611411351712.png" alt="" loading="lazy"></figure>
+<ul>
+<li>
+<p>将第2页的切换效果设置为形状，效果选项为圆形，持续时间设置为0.8秒</p>
+</li>
+<li>
+<p>新建一张幻灯片，将刚刚渲染好的视频、文本环、“花&quot;依次插入（此时该页幻灯片应为第3页）</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="20"><img src="https://kb3146706.gitee.io/post-images/1611411383245.png" alt="" loading="lazy"></figure>
+<ul>
+<li>将视频的视频选项设置为自动</li>
+</ul>
+<figure data-type="image" tabindex="21"><img src="https://kb3146706.gitee.io/post-images/1611411418401.png" alt="" loading="lazy"></figure>
+<ul>
+<li>如图设置其余元素的动画</li>
+</ul>
+<figure data-type="image" tabindex="22"><img src="https://kb3146706.gitee.io/post-images/1611411428472.png" alt="" loading="lazy"></figure>
+<p>之所以设置为1.4秒而非与圆环动画相同的1.5秒是因为在1.4秒时圆环动画已完成99.3%，如果设置为1.4秒那么就会给人一种圆环动画先结束的错觉</p>
+<figure data-type="image" tabindex="23"><img src="https://kb3146706.gitee.io/post-images/1611411694886.png" alt="" loading="lazy"></figure>
+<ul>
+<li>将第三部分第一步所创建的幻灯片复制一张，并将校徽适当缩小（此时该页幻灯片应为第5页）</li>
+</ul>
+<figure data-type="image" tabindex="24"><img src="https://kb3146706.gitee.io/post-images/1611411713285.png" alt="" loading="lazy"></figure>
+<ul>
+<li>再复制一张（此时该页幻灯片应为第6页）。通过新建文本框的方式键入需要的文本（居中对齐），“信息工程学院”设置为110号方正综艺体并与校徽顶对齐，“计算机类2041班  刘禹泽组”为方正硬笔楷书体（加粗）并与校徽底对齐</li>
+</ul>
+<figure data-type="image" tabindex="25"><img src="https://kb3146706.gitee.io/post-images/1611411732221.png" alt="" loading="lazy"></figure>
+<p>注：之所以“信息工程学院”的字体是方正综艺体是因为在实验楼里属于信息工程学院的楼层的标示就是方正综艺体</p>
+<p>（图）</p>
+<ul>
+<li>将第6页幻灯片往前复制一张（此时该页幻灯片应为第6页），删除“计算机类2041班  刘禹泽组”，将“信息工程学院”垂直居中，将校徽复制一份到右侧</li>
+</ul>
+<figure data-type="image" tabindex="26"><img src="https://kb3146706.gitee.io/post-images/1611411749574.png" alt="" loading="lazy"></figure>
+<ul>
+<li>
+<p>设置校徽动画为0.7秒直线，路径终点为左侧校徽，平滑开始与平滑结束时间均设置为0.35秒</p>
+</li>
+<li>
+<p>设置“信息工程学院”的动画为0.65秒自右侧擦除</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="27"><img src="https://kb3146706.gitee.io/post-images/1611411768215.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="28"><img src="https://kb3146706.gitee.io/post-images/1611411775607.png" alt="" loading="lazy"></figure>
+<ul>
+<li>新建一页幻灯片，插入“我心中的思政课”文本框，格式设置为120号方正字迹-典雅楷体简体，位于幻灯片中心略偏上</li>
+</ul>
+<figure data-type="image" tabindex="29"><img src="https://kb3146706.gitee.io/post-images/1611411786021.png" alt="" loading="lazy"></figure>
+<ul>
+<li>在其上层插入每个字单独的文本框（注意要完整覆盖），删除“我心中的思政课”文本框</li>
+</ul>
+<figure data-type="image" tabindex="30"><img src="https://kb3146706.gitee.io/post-images/1611411803229.png" alt="" loading="lazy"></figure>
+<ul>
+<li>向其正下方复制一份，然后将上面的“集中”到一起</li>
+</ul>
+<figure data-type="image" tabindex="31"><img src="https://kb3146706.gitee.io/post-images/1611411812186.png" alt="" loading="lazy"></figure>
+<ul>
+<li>对上面的每个字设置动画——1秒直线，“的”除外，注意结束位置应与下面的同文字文本框对齐</li>
+</ul>
+<figure data-type="image" tabindex="32"><img src="https://kb3146706.gitee.io/post-images/1611411906263.png" alt="" loading="lazy"></figure>
+<p>效果选项中平滑开始时间设置为0秒，平滑结束时间设置为1秒</p>
+<ul>
+<li>全选，添加1秒动画-进入-淡化</li>
+</ul>
+<figure data-type="image" tabindex="33"><img src="https://kb3146706.gitee.io/post-images/1611411862767.png" alt="" loading="lazy"></figure>
+<ul>
+<li>现在该份 PowerPoint 应该有8页幻灯片，按如下设置切换效果</li>
+</ul>
+<p>①无</p>
+<p>②形状，效果选项“圆形”，0.8秒</p>
+<p>③无，自动换片时间1.4秒</p>
+<p>④无</p>
+<p>⑤平滑，0.4秒</p>
+<p>⑥平滑，0.55秒</p>
+<p>⑦平滑，0.75秒</p>
+<p>⑧无</p>
+<p>完成！</p>
+<h2 id="第六部分录制">第六部分——录制</h2>
+<ul>
+<li>
+<p>点击从头放映，使用热键打开录屏工具开始录制（我使用的是 Windows 10 自带的 Xbox Game Bar 的捕获功能）</p>
+</li>
+<li>
+<p>录制完毕后使用 Solveig Multimedia Video Splitter 等工具删除不需要的部分</p>
+</li>
+</ul>
+<p>片头完成！</p>
+<h1 id="片尾">片尾</h1>
+<p>…………</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Try Anytime】院刊版权页PowerPoint复刻]]></title>
         <id>https://kb3146706.gitee.io/post/try-anytime-yuan-kan-ban-quan-ye-powerpoint-fu-ke/</id>
